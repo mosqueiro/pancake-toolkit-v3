@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.19.0](https://github.com/mosqueiro/pancake-toolkit-v3/compare/@pancakeswap/token-lists@2.18.6...@pancakeswap/token-lists@2.19.0) (2021-10-19)
+
+
+### Features
+
+* Add LIGHT and CART to extended list ([#296](https://github.com/mosqueiro/pancake-toolkit-v3/issues/296)) ([a884bc2](https://github.com/mosqueiro/pancake-toolkit-v3/commit/a884bc22892b02910980d559f3a6eea4c162f04b))
+* List MCB ([#305](https://github.com/mosqueiro/pancake-toolkit-v3/issues/305)) ([52e4d53](https://github.com/mosqueiro/pancake-toolkit-v3/commit/52e4d53ddf9d3a491e624317d0637cd99f39e1c6))
+* List RPG ([#300](https://github.com/mosqueiro/pancake-toolkit-v3/issues/300)) ([bb7e7e5](https://github.com/mosqueiro/pancake-toolkit-v3/commit/bb7e7e520a8902f70e6701ccc2ac87e82701070b))
+
+
+
+
+
 ## [2.18.6](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.18.5...@pancakeswap/token-lists@2.18.6) (2021-09-28)
 
 **Note:** Version bump only for package @pancakeswap/token-lists
